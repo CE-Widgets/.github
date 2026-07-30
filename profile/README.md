@@ -1,12 +1,12 @@
 # CE Widgets
 
-Software products by Champagne Engineering, LLC.
+Commercial software developed under the CE Widgets brand by Champagne Engineering, LLC.
 
 ## Products
 
 ### [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw)
 
-An Android application for downloading, browsing, sorting, and filtering data from ARRL Logbook of The World (LoTW).
+An Android application for browsing, searching, sorting, and filtering ARRL Logbook of The World (LoTW) records.
 
 Features include:
 
@@ -15,35 +15,26 @@ Features include:
 - Powerful regular expression searches
 - Offline browsing
 
-Available on Google Play.
+**Status:** 🟡 Open Beta
+
+[Join the Open Beta](https://play.google.com/apps/testing/engineering.champagne.browserforlotw) · [View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw) · [Product page](https://champagne.engineering/browser-for-lotw)
 
 ### [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz)
 
-An Android application for downloading, browsing, sorting, and filtering data from your QRZ.com logbook.
+An Android application for browsing, searching, sorting, and filtering QRZ Logbook records.
 
 Features include:
 
-- Download your QRZ log to local storage
-- Fast sorting and filtering
-- Powerful regular expression searches
-- Offline browsing
+- Download QRZ Logbook data using your callsign and API key
+- Browse QSOs and QSLs
+- Advanced sorting and filtering
+- Detailed QSO and QSL views
+- Demo mode
+- Language selection that follows Android settings
 
-Available on Google Play.
+**Status:** 🔵 In Development
 
-## Company Applications
-
-### [Champagne Engineering](https://github.com/CE-Widgets/champagne-engineering-app)
-
-Official mobile companion for Champagne Engineering.
-
-Provides convenient access to:
-
-- Company website
-- Product information
-- Documentation
-- Support resources
-
-Available on Google Play.
+Open Beta expected soon. The Google Play testing link will be published on the [product page](https://champagne.engineering/browser-for-qrz) once it becomes available.
 
 ---
 
