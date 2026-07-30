@@ -1,6 +1,6 @@
 # CE Widgets
 
-Commercial software developed under the CE Widgets brand by Champagne Engineering, LLC.
+CE Widgets is the commercial software brand of Champagne Engineering, LLC.
 
 ## Products
 
@@ -38,6 +38,11 @@ Open Beta expected soon. The Google Play testing link will be published on the [
 
 ---
 
-Website: https://champagne.engineering
+## About CE Widgets
 
-Support: support@champagne.engineering
+CE Widgets is the commercial software brand of Champagne Engineering, LLC.
+
+- [Website](https://champagne.engineering)
+- [Support](mailto:support@champagne.engineering)
+- [Privacy Policy](https://champagne.engineering/privacy)
+- [Terms of Service](https://champagne.engineering/tos)
