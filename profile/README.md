@@ -32,9 +32,9 @@ Features include:
 - Demo mode
 - Language selection that follows Android settings
 
-**Status:** 🔵 In Development
+**Status:** 🟡 Open Beta
 
-Open Beta expected soon. The Google Play testing link will be published on the [product page](https://champagne.engineering/browser-for-qrz) once it becomes available.
+[Join the Open Beta](https://play.google.com/apps/testing/engineering.champagne.browserforqrz) · [View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforqrz) · [Product page](https://champagne.engineering/browser-for-qrz)
 
 ---
 
