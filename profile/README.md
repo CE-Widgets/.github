@@ -10,10 +10,14 @@ An Android application for browsing, searching, sorting, and filtering ARRL Logb
 
 Features include:
 
-- Download your LoTW log to local storage
-- Fast sorting and filtering
-- Powerful regular expression searches
-- Offline browsing
+- Download LoTW records directly from ARRL
+- Browse QSOs and QSLs
+- Advanced sorting and filtering
+- Regular-expression filtering
+- Detailed QSO and QSL views
+- Offline browsing and local storage
+- Demo mode
+- Language selection: English, French, Portuguese, and Spanish
 
 **Status:** 🟡 Open Beta
 
@@ -28,9 +32,11 @@ Features include:
 - Download QRZ Logbook data using your callsign and API key
 - Browse QSOs and QSLs
 - Advanced sorting and filtering
+- Regular-expression filtering
 - Detailed QSO and QSL views
+- Offline browsing and local storage
 - Demo mode
-- Language selection that follows Android settings
+- Language selection: English, French, Portuguese, and Spanish
 
 **Status:** 🟡 Open Beta
 
