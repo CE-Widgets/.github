@@ -84,6 +84,19 @@ QRZ callsigns and API keys are used only for each download request and are not s
 
 Chrome Web Store review is pending. [Product page](https://champagne.engineering/browser-for-qrz-chrome)
 
+### [Champagne Engineering](https://github.com/CE-Widgets/champagne-engineering-app)
+
+The official Android companion app for Champagne Engineering.
+
+Features include:
+
+- Quick access to the Champagne Engineering website
+- Home-screen shortcuts for Services, Contact, and Privacy Policy
+
+**Status:** 🟢 Available
+
+[View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.twa) · [Website](https://champagne.engineering)
+
 ---
 
 ## About CE Widgets
