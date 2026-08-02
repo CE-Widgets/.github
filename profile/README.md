@@ -4,7 +4,9 @@ CE Widgets is the commercial software brand of Champagne Engineering, LLC.
 
 ## Products
 
-### [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw)
+### Android Apps
+
+#### [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw)
 
 An Android application for browsing, searching, sorting, and filtering ARRL Logbook of The World (LoTW) records.
 
@@ -23,7 +25,28 @@ Features include:
 
 [Join the Open Beta](https://play.google.com/apps/testing/engineering.champagne.browserforlotw) · [View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw) · [Product page](https://champagne.engineering/browser-for-lotw)
 
-### [Browser for LoTW Chrome Extension](https://github.com/CE-Widgets/browser-for-lotw-chrome)
+#### [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz)
+
+An Android application for browsing, searching, sorting, and filtering QRZ Logbook records.
+
+Features include:
+
+- Download QRZ Logbook data using your callsign and API key
+- Browse QSOs and QSLs
+- Advanced sorting and filtering
+- Regular-expression filtering
+- Detailed QSO and QSL views
+- Offline browsing and local storage
+- Demo mode
+- Language selection: English, French, German, Portuguese, and Spanish
+
+**Status:** 🟡 Open Beta
+
+[Join the Open Beta](https://play.google.com/apps/testing/engineering.champagne.browserforqrz) · [View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforqrz) · [Product page](https://champagne.engineering/browser-for-qrz)
+
+### Chrome Extensions
+
+#### [Browser for LoTW Chrome Extension](https://github.com/CE-Widgets/browser-for-lotw-chrome)
 
 A read-only Chrome extension for browsing, searching, sorting, and filtering ARRL Logbook of The World (LoTW) records.
 
@@ -44,26 +67,7 @@ LoTW credentials are used only for each download request and are not stored by t
 
 Chrome Web Store review has been submitted. [Product page](https://champagne.engineering/browser-for-lotw-chrome)
 
-### [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz)
-
-An Android application for browsing, searching, sorting, and filtering QRZ Logbook records.
-
-Features include:
-
-- Download QRZ Logbook data using your callsign and API key
-- Browse QSOs and QSLs
-- Advanced sorting and filtering
-- Regular-expression filtering
-- Detailed QSO and QSL views
-- Offline browsing and local storage
-- Demo mode
-- Language selection: English, French, German, Portuguese, and Spanish
-
-**Status:** 🟡 Open Beta
-
-[Join the Open Beta](https://play.google.com/apps/testing/engineering.champagne.browserforqrz) · [View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforqrz) · [Product page](https://champagne.engineering/browser-for-qrz)
-
-### [Browser for QRZ Chrome Extension](https://github.com/CE-Widgets/browser-for-qrz-chrome)
+#### [Browser for QRZ Chrome Extension](https://github.com/CE-Widgets/browser-for-qrz-chrome)
 
 A read-only Chrome extension for browsing, searching, sorting, and filtering QRZ Logbook records.
 
@@ -84,7 +88,9 @@ QRZ callsigns and API keys are used only for each download request and are not s
 
 Chrome Web Store review is pending. [Product page](https://champagne.engineering/browser-for-qrz-chrome)
 
-### [Champagne Engineering](https://github.com/CE-Widgets/champagne-engineering-app)
+### Other Apps
+
+#### [Champagne Engineering](https://github.com/CE-Widgets/champagne-engineering-app)
 
 The official Android companion app for Champagne Engineering.
 
