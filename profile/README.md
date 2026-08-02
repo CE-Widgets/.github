@@ -23,6 +23,27 @@ Features include:
 
 [Join the Open Beta](https://play.google.com/apps/testing/engineering.champagne.browserforlotw) · [View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw) · [Product page](https://champagne.engineering/browser-for-lotw)
 
+### [Browser for LoTW Chrome Extension](https://github.com/CE-Widgets/browser-for-lotw-chrome)
+
+A read-only Chrome extension for browsing, searching, sorting, and filtering ARRL Logbook of The World (LoTW) records.
+
+Features include:
+
+- Download LoTW records directly from ARRL
+- Browse QSOs and QSLs
+- Advanced sorting and filtering
+- Regular-expression filtering
+- Detailed QSO and QSL views
+- Offline browsing and local storage
+- Demo mode
+- Language selection: English, French, German, Portuguese, and Spanish
+
+LoTW credentials are used only for each download request and are not stored by the extension.
+
+**Status:** 🔵 Closed Alpha
+
+Chrome Web Store review has been submitted. [Product page](https://champagne.engineering/browser-for-lotw-chrome)
+
 ### [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz)
 
 An Android application for browsing, searching, sorting, and filtering QRZ Logbook records.
