@@ -99,7 +99,7 @@ Features include:
 - Quick access to the Champagne Engineering website
 - Home-screen shortcuts for Services, Contact, and Privacy Policy
 
-**Status:** 🟢 Available
+**Status:** 🟢 Production — version `3`
 
 [View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.twa) · [Website](https://champagne.engineering)
 
