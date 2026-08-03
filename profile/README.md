@@ -63,9 +63,9 @@ Features include:
 
 LoTW credentials are used only for each download request and are not stored by the extension.
 
-**Status:** 🔵 Closed Alpha
+**Status:** 🟢 Production — version `0.1.0`
 
-Chrome Web Store review has been submitted. [Product page](https://champagne.engineering/browser-for-lotw-chrome)
+Available now on the Chrome Web Store. [Product page](https://champagne.engineering/browser-for-lotw-chrome)
 
 #### [Browser for QRZ Chrome Extension](https://github.com/CE-Widgets/browser-for-qrz-chrome)
 
