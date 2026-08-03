@@ -63,7 +63,7 @@ Features include:
 
 LoTW credentials are used only for each download request and are not stored by the extension.
 
-**Status:** 🟢 Production — version `0.1.0`
+**Status:** 🟢 Production — version `2026.08.03-1`
 
 [View on Chrome Web Store](https://chromewebstore.google.com/detail/browser-for-lotw/eplicdjaoojmeaamhcibdeehhllnkjeg) · [Product page](https://champagne.engineering/browser-for-lotw-chrome)
 
@@ -84,7 +84,7 @@ Features include:
 
 QRZ callsigns and API keys are used only for each download request and are not stored by the extension.
 
-**Status:** 🔵 Closed Alpha
+**Status:** 🔵 Closed Alpha — version `2026.08.03-1`
 
 Chrome Web Store review is pending. [Product page](https://champagne.engineering/browser-for-qrz-chrome)
 
