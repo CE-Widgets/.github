@@ -40,9 +40,9 @@ Features include:
 - Demo mode
 - Language selection: English, French, German, Portuguese, and Spanish
 
-**Status:** 🟡 Open Beta — version `2026.08.03-1`
+**Status:** 🟢 Production — version `2026.08.03-1`
 
-[Join the Open Beta](https://play.google.com/apps/testing/engineering.champagne.browserforqrz) · [View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforqrz) · [Product page](https://champagne.engineering/browser-for-qrz)
+[View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforqrz) · [Product page](https://champagne.engineering/browser-for-qrz)
 
 ### Chrome Extensions
 
