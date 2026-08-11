@@ -104,7 +104,7 @@ Features include:
 - Check a downloaded date range for LoTW updates
 - Demo mode for evaluation without LoTW credentials
 
-**Status:** 🔵 Marketplace and OAuth review in progress — version `2026.08.10-1`
+**Status:** 🔵 OAuth verification in progress — version `2026.08.10-1`
 
 [Product page](https://champagne.engineering/browser-for-lotw-sheets)
 
