@@ -104,9 +104,9 @@ Features include:
 - Check a downloaded date range for LoTW updates
 - Demo mode for evaluation without LoTW credentials
 
-**Status:** 🔵 OAuth verification in progress — version `2026.08.10-1`
+**Status:** 🟢 Production — version `2026.08.10-1`
 
-[Product page](https://champagne.engineering/browser-for-lotw-sheets)
+[View in Google Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_lotw/993136684060) · [Product page](https://champagne.engineering/browser-for-lotw-sheets)
 
 #### [Browser for QRZ for Google Sheets™](https://github.com/CE-Widgets/browser-for-qrz-sheets)
 
@@ -122,7 +122,7 @@ Features include:
 - Check a downloaded date range for QRZ Logbook updates
 - Demo mode for evaluation without QRZ credentials
 
-**Status:** 🔵 Marketplace preparation in progress — version `2026.08.10-1`
+**Status:** 🔵 Marketplace review in progress — version `2026.08.10-1`
 
 [Product page](https://champagne.engineering/browser-for-qrz-sheets)
 
