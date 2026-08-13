@@ -122,9 +122,9 @@ Features include:
 - Check a downloaded date range for QRZ Logbook updates
 - Demo mode for evaluation without QRZ credentials
 
-**Status:** 🔵 Marketplace review in progress — version `2026.08.10-1`
+**Status:** 🟢 Production — version `2026.08.10-1`
 
-[Product page](https://champagne.engineering/browser-for-qrz-sheets)
+[View in Google Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_qrz/264845665339) · [Product page](https://champagne.engineering/browser-for-qrz-sheets)
 
 ### Other Apps
 
