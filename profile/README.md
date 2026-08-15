@@ -21,7 +21,7 @@ Features include:
 - Demo mode
 - Language selection: English, French, German, Portuguese, and Spanish
 
-**Status:** 🟢 Production — version `2026.08.14-1`
+**Status:** 🟢 Production — version `2026.08.03-1`
 
 [View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw) · [Product page](https://champagne.engineering/browser-for-lotw)
 
@@ -38,7 +38,7 @@ Features include:
 - Detailed QSO and QSL views
 - Offline browsing and local storage
 - Demo mode
-- Language selection: English, French, German, Portuguese, and Spanish
+- Language selection: English, French, German, Italian, Portuguese, and Spanish
 
 **Status:** 🟢 Production — version `2026.08.14-1`
 
@@ -63,7 +63,7 @@ Features include:
 
 LoTW credentials are used only for each download request and are not stored by the extension.
 
-**Status:** 🟢 Production — version `2026.08.14-1`
+**Status:** 🟢 Production — version `2026.08.03-1`
 
 [View on Chrome Web Store](https://chromewebstore.google.com/detail/browser-for-lotw/eplicdjaoojmeaamhcibdeehhllnkjeg) · [Product page](https://champagne.engineering/browser-for-lotw-chrome)
 
@@ -80,7 +80,7 @@ Features include:
 - Detailed QSO and QSL views
 - Offline browsing and local storage
 - Demo mode
-- Language selection: English, French, German, Portuguese, and Spanish
+- Language selection: English, French, German, Italian, Portuguese, and Spanish
 
 QRZ callsigns and API keys are used only for each download request and are not stored by the extension.
 
@@ -104,7 +104,7 @@ Features include:
 - Check a downloaded date range for LoTW updates
 - Demo mode for evaluation without LoTW credentials
 
-**Status:** 🟢 Production — version `2026.08.14-1`
+**Status:** 🟢 Production — version `2026.08.10-1`
 
 [View in Google Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_lotw/993136684060) · [Product page](https://champagne.engineering/browser-for-lotw-sheets)
 
@@ -121,6 +121,7 @@ Features include:
 - Inspect complete QSO and QSL ADIF fields
 - Check a downloaded date range for QRZ Logbook updates
 - Demo mode for evaluation without QRZ credentials
+- Language selection: English, French, German, Italian, Portuguese, and Spanish
 
 **Status:** 🟢 Production — version `2026.08.14-1`
 
