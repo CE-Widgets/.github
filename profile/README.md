@@ -19,7 +19,7 @@ Features include:
 - Detailed QSO and QSL views
 - Offline browsing and local storage
 - Demo mode
-- Language selection: English, French, German, Portuguese, and Spanish
+- Language selection: English, French, German, Italian, Portuguese, and Spanish
 
 **Status:** 🟢 Production — version `2026.08.21-1`
 
@@ -59,7 +59,7 @@ Features include:
 - Detailed QSO and QSL views
 - Offline browsing and local storage
 - Demo mode
-- Language selection: English, French, German, Portuguese, and Spanish
+- Language selection: English, French, German, Italian, Portuguese, and Spanish
 
 LoTW credentials are used only for each download request and are not stored by the extension.
 
@@ -103,6 +103,7 @@ Features include:
 - Inspect complete QSO and QSL ADIF fields
 - Check a downloaded date range for LoTW updates
 - Demo mode for evaluation without LoTW credentials
+- Language selection: English, French, German, Italian, Portuguese, and Spanish
 
 **Status:** 🟢 Production — version `2026.08.21-1`
 
