@@ -40,7 +40,7 @@ Features include:
 - Demo mode
 - Language selection: English, French, German, Italian, Portuguese, and Spanish
 
-**Status:** 🟢 Production — version `2026.08.14-1`
+**Status:** 🟢 Production — version `2026.08.21-1`
 
 [View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforqrz) · [Product page](https://champagne.engineering/browser-for-qrz)
 
@@ -84,7 +84,7 @@ Features include:
 
 QRZ callsigns and API keys are used only for each download request and are not stored by the extension.
 
-**Status:** 🟢 Production — version `2026.08.14-1`
+**Status:** 🟢 Production — version `2026.08.21-2`
 
 [View on Chrome Web Store](https://chromewebstore.google.com/detail/browser-for-qrz/pcggmleklfekjejikgdjfdddfgkkifgm) · [Product page](https://champagne.engineering/browser-for-qrz-chrome)
 
@@ -123,7 +123,7 @@ Features include:
 - Demo mode for evaluation without QRZ credentials
 - Language selection: English, French, German, Italian, Portuguese, and Spanish
 
-**Status:** 🟢 Production — version `2026.08.14-1`
+**Status:** 🟢 Production — version `2026.08.21-2`
 
 [View in Google Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_qrz/264845665339) · [Product page](https://champagne.engineering/browser-for-qrz-sheets)
 
