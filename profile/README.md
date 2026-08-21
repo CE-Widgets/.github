@@ -21,7 +21,7 @@ Features include:
 - Demo mode
 - Language selection: English, French, German, Portuguese, and Spanish
 
-**Status:** 🟢 Production — version `2026.08.03-1`
+**Status:** 🟢 Production — version `2026.08.21-1`
 
 [View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw) · [Product page](https://champagne.engineering/browser-for-lotw)
 
@@ -63,7 +63,7 @@ Features include:
 
 LoTW credentials are used only for each download request and are not stored by the extension.
 
-**Status:** 🟢 Production — version `2026.08.03-1`
+**Status:** 🟢 Production — version `2026.08.21-1`
 
 [View on Chrome Web Store](https://chromewebstore.google.com/detail/browser-for-lotw/eplicdjaoojmeaamhcibdeehhllnkjeg) · [Product page](https://champagne.engineering/browser-for-lotw-chrome)
 
@@ -104,7 +104,7 @@ Features include:
 - Check a downloaded date range for LoTW updates
 - Demo mode for evaluation without LoTW credentials
 
-**Status:** 🟢 Production — version `2026.08.10-1`
+**Status:** 🟢 Production — version `2026.08.21-1`
 
 [View in Google Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_lotw/993136684060) · [Product page](https://champagne.engineering/browser-for-lotw-sheets)
 
