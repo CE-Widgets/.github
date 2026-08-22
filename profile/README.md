@@ -88,6 +88,53 @@ QRZ callsigns and API keys are used only for each download request and are not s
 
 [View on Chrome Web Store](https://chromewebstore.google.com/detail/browser-for-qrz/pcggmleklfekjejikgdjfdddfgkkifgm) · [Product page](https://champagne.engineering/browser-for-qrz-chrome)
 
+### Web Apps
+
+#### [Browser for LoTW - Anywhere](https://github.com/CE-Widgets/browser-for-lotw-anywhere)
+
+A read-only web app for browsing, searching, sorting, and filtering ARRL
+Logbook of The World (LoTW) QSO and QSL records. Downloaded records and
+resumable import state remain in the browser for local browsing.
+
+Features include:
+
+- Download LoTW QSO and QSL records directly from ARRL
+- Browse, sort, filter, search, and inspect QSO and QSL fields
+- Resume downloads with browser-local import checkpoints
+- Check for LoTW updates
+- Offline browsing and browser-local storage
+- Demo mode
+- Language selection: English, French, German, Italian, Portuguese, and Spanish
+
+LoTW credentials are used only for a user-initiated request and are not stored by the web app.
+
+**Status:** 🔵 Closed Alpha — version `2026.08.21-1`
+
+Google Workspace Marketplace listing in preparation. · [Product page](https://champagne.engineering/browser-for-lotw-anywhere)
+
+#### [Browser for QRZ - Anywhere](https://github.com/CE-Widgets/browser-for-qrz-anywhere)
+
+A read-only web app for browsing, searching, sorting, and filtering QRZ
+Logbook QSO and QSL records. Downloaded records and resumable import state
+remain in the browser for local browsing.
+
+Features include:
+
+- Download QRZ Logbook QSO and QSL records using a callsign and API key
+- Browse, sort, filter, search, and inspect QSO and QSL fields
+- Resume paginated imports with browser-local checkpoints
+- Check for new and modified QRZ records
+- Open matching QRZ profile pages from callsigns
+- Offline browsing and browser-local storage
+- Demo mode
+- Language selection: English, French, German, Italian, Portuguese, and Spanish
+
+QRZ credentials are used only for a user-initiated request and are not stored by the web app.
+
+**Status:** 🔵 Closed Alpha — version `2026.08.21-1`
+
+Google Workspace Marketplace listing in preparation. · [Product page](https://champagne.engineering/browser-for-qrz-anywhere)
+
 ### Google Sheets Add-ons
 
 #### [Browser for LoTW for Google Sheets™](https://github.com/CE-Widgets/browser-for-lotw-sheets)
