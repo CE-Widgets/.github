@@ -46,6 +46,8 @@ Features include:
 
 [View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforqrz) · [Product page](https://champagne.engineering/browser-for-qrz)
 
+---
+
 ### Chrome Extensions
 
 #### [Browser for LoTW Chrome Extension](https://github.com/CE-Widgets/browser-for-lotw-chrome)
@@ -91,6 +93,56 @@ QRZ callsigns and API keys are used only for each download request and are not s
 **Status:** 🟢 Production — version `2026.08.21-2`
 
 [View on Chrome Web Store](https://chromewebstore.google.com/detail/browser-for-qrz/pcggmleklfekjejikgdjfdddfgkkifgm) · [Product page](https://champagne.engineering/browser-for-qrz-chrome)
+
+---
+
+### Google Sheets Add-ons
+
+#### [Browser for LoTW for Google Sheets™](https://github.com/CE-Widgets/browser-for-lotw-sheets)
+
+A read-only Google Sheets™ add-on for browsing ARRL Logbook of The World
+(LoTW) QSO and QSL data. Download a selected date range into a spreadsheet,
+then use native Sheets sorting, filtering, search, and charting tools locally.
+
+Features include:
+
+- Download LoTW records directly from ARRL
+- Browse QSOs and QSLs
+- Advanced sorting and filtering
+- Regular-expression filtering
+- Detailed QSO and QSL views
+- Local storage
+- Demo mode
+- Language selection: English, French, German, Italian, Portuguese, and Spanish
+- Native Google Sheets™ sorting, filtering, search, and charting
+
+**Status:** 🟢 Production — version `2026.08.21-1`
+
+[View in Google Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_lotw/993136684060) · [Product page](https://champagne.engineering/browser-for-lotw-sheets)
+
+#### [Browser for QRZ for Google Sheets™](https://github.com/CE-Widgets/browser-for-qrz-sheets)
+
+A read-only Google Sheets™ add-on for browsing QRZ Logbook QSO and QSL data.
+Download a selected date range into a spreadsheet, then use native Sheets
+sorting, filtering, search, and charting tools locally.
+
+Features include:
+
+- Download QRZ Logbook records using your callsign and API key
+- Browse QSOs and QSLs
+- Advanced sorting and filtering
+- Regular-expression filtering
+- Detailed QSO and QSL views
+- Local storage
+- Demo mode
+- Language selection: English, French, German, Italian, Portuguese, and Spanish
+- Native Google Sheets™ sorting, filtering, search, and charting
+
+**Status:** 🟢 Production — version `2026.08.21-2`
+
+[View in Google Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_qrz/264845665339) · [Product page](https://champagne.engineering/browser-for-qrz-sheets)
+
+---
 
 ### Web Apps
 
@@ -142,51 +194,7 @@ QRZ credentials are used only for a user-initiated request and are not stored by
 
 Google Workspace Marketplace listing in preparation. · [Product page](https://champagne.engineering/browser-for-qrz-anywhere)
 
-### Google Sheets Add-ons
-
-#### [Browser for LoTW for Google Sheets™](https://github.com/CE-Widgets/browser-for-lotw-sheets)
-
-A read-only Google Sheets™ add-on for browsing ARRL Logbook of The World
-(LoTW) QSO and QSL data. Download a selected date range into a spreadsheet,
-then use native Sheets sorting, filtering, search, and charting tools locally.
-
-Features include:
-
-- Download LoTW records directly from ARRL
-- Browse QSOs and QSLs
-- Advanced sorting and filtering
-- Regular-expression filtering
-- Detailed QSO and QSL views
-- Local storage
-- Demo mode
-- Language selection: English, French, German, Italian, Portuguese, and Spanish
-- Native Google Sheets™ sorting, filtering, search, and charting
-
-**Status:** 🟢 Production — version `2026.08.21-1`
-
-[View in Google Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_lotw/993136684060) · [Product page](https://champagne.engineering/browser-for-lotw-sheets)
-
-#### [Browser for QRZ for Google Sheets™](https://github.com/CE-Widgets/browser-for-qrz-sheets)
-
-A read-only Google Sheets™ add-on for browsing QRZ Logbook QSO and QSL data.
-Download a selected date range into a spreadsheet, then use native Sheets
-sorting, filtering, search, and charting tools locally.
-
-Features include:
-
-- Download QRZ Logbook records using your callsign and API key
-- Browse QSOs and QSLs
-- Advanced sorting and filtering
-- Regular-expression filtering
-- Detailed QSO and QSL views
-- Local storage
-- Demo mode
-- Language selection: English, French, German, Italian, Portuguese, and Spanish
-- Native Google Sheets™ sorting, filtering, search, and charting
-
-**Status:** 🟢 Production — version `2026.08.21-2`
-
-[View in Google Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_qrz/264845665339) · [Product page](https://champagne.engineering/browser-for-qrz-sheets)
+---
 
 ### Other Apps
 
