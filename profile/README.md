@@ -17,9 +17,10 @@ Features include:
 - Advanced sorting and filtering
 - Regular-expression filtering
 - Detailed QSO and QSL views
-- Offline browsing and local storage
+- Local storage
 - Demo mode
 - Language selection: English, French, German, Italian, Portuguese, and Spanish
+- Offline browsing
 
 **Status:** 🟢 Production — version `2026.08.21-1`
 
@@ -31,14 +32,15 @@ An Android application for browsing, searching, sorting, and filtering QRZ Logbo
 
 Features include:
 
-- Download QRZ Logbook data using your callsign and API key
+- Download QRZ Logbook records using your callsign and API key
 - Browse QSOs and QSLs
 - Advanced sorting and filtering
 - Regular-expression filtering
 - Detailed QSO and QSL views
-- Offline browsing and local storage
+- Local storage
 - Demo mode
 - Language selection: English, French, German, Italian, Portuguese, and Spanish
+- Offline browsing
 
 **Status:** 🟢 Production — version `2026.08.21-1`
 
@@ -57,9 +59,10 @@ Features include:
 - Advanced sorting and filtering
 - Regular-expression filtering
 - Detailed QSO and QSL views
-- Offline browsing and local storage
+- Local storage
 - Demo mode
 - Language selection: English, French, German, Italian, Portuguese, and Spanish
+- Offline browsing
 
 LoTW credentials are used only for each download request and are not stored by the extension.
 
@@ -78,9 +81,10 @@ Features include:
 - Advanced sorting and filtering
 - Regular-expression filtering
 - Detailed QSO and QSL views
-- Offline browsing and local storage
+- Local storage
 - Demo mode
 - Language selection: English, French, German, Italian, Portuguese, and Spanish
+- Offline browsing
 
 QRZ callsigns and API keys are used only for each download request and are not stored by the extension.
 
@@ -98,13 +102,15 @@ resumable import state remain in the browser for local browsing.
 
 Features include:
 
-- Download LoTW QSO and QSL records directly from ARRL
-- Browse, sort, filter, search, and inspect QSO and QSL fields
-- Resume downloads with browser-local import checkpoints
-- Check for LoTW updates
-- Offline browsing and browser-local storage
+- Download LoTW records directly from ARRL
+- Browse QSOs and QSLs
+- Advanced sorting and filtering
+- Regular-expression filtering
+- Detailed QSO and QSL views
+- Local storage
 - Demo mode
 - Language selection: English, French, German, Italian, Portuguese, and Spanish
+- Resume downloads with browser-local import checkpoints
 
 LoTW credentials are used only for a user-initiated request and are not stored by the web app.
 
@@ -120,14 +126,15 @@ remain in the browser for local browsing.
 
 Features include:
 
-- Download QRZ Logbook QSO and QSL records using a callsign and API key
-- Browse, sort, filter, search, and inspect QSO and QSL fields
-- Resume paginated imports with browser-local checkpoints
-- Check for new and modified QRZ records
-- Open matching QRZ profile pages from callsigns
-- Offline browsing and browser-local storage
+- Download QRZ Logbook records using your callsign and API key
+- Browse QSOs and QSLs
+- Advanced sorting and filtering
+- Regular-expression filtering
+- Detailed QSO and QSL views
+- Local storage
 - Demo mode
 - Language selection: English, French, German, Italian, Portuguese, and Spanish
+- Resume paginated imports with browser-local checkpoints
 
 QRZ credentials are used only for a user-initiated request and are not stored by the web app.
 
@@ -145,12 +152,15 @@ then use native Sheets sorting, filtering, search, and charting tools locally.
 
 Features include:
 
-- Download LoTW QSO and QSL data into Google Sheets™
-- Browse, sort, filter, search, and chart downloaded contacts
-- Inspect complete QSO and QSL ADIF fields
-- Check a downloaded date range for LoTW updates
-- Demo mode for evaluation without LoTW credentials
+- Download LoTW records directly from ARRL
+- Browse QSOs and QSLs
+- Advanced sorting and filtering
+- Regular-expression filtering
+- Detailed QSO and QSL views
+- Local storage
+- Demo mode
 - Language selection: English, French, German, Italian, Portuguese, and Spanish
+- Native Google Sheets™ sorting, filtering, search, and charting
 
 **Status:** 🟢 Production — version `2026.08.21-1`
 
@@ -164,12 +174,15 @@ sorting, filtering, search, and charting tools locally.
 
 Features include:
 
-- Download QRZ Logbook QSO and QSL data into Google Sheets™
-- Browse, sort, filter, search, and chart downloaded contacts
-- Inspect complete QSO and QSL ADIF fields
-- Check a downloaded date range for QRZ Logbook updates
-- Demo mode for evaluation without QRZ credentials
+- Download QRZ Logbook records using your callsign and API key
+- Browse QSOs and QSLs
+- Advanced sorting and filtering
+- Regular-expression filtering
+- Detailed QSO and QSL views
+- Local storage
+- Demo mode
 - Language selection: English, French, German, Italian, Portuguese, and Spanish
+- Native Google Sheets™ sorting, filtering, search, and charting
 
 **Status:** 🟢 Production — version `2026.08.21-2`
 
