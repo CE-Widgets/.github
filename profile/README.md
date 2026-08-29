@@ -1,5 +1,7 @@
 # CE Widgets
 
+[English](README.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Español](README.es.md)
+
 CE Widgets is the commercial software brand of Champagne Engineering, LLC.
 
 ## Products
