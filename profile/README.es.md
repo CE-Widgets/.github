@@ -17,8 +17,6 @@ CE Widgets es la marca de software comercial de Champagne Engineering, LLC.
 ### Otros productos
 - [LoTW para Google Sheets™](https://github.com/CE-Widgets/browser-for-lotw-sheets)
 - [QRZ para Google Sheets™](https://github.com/CE-Widgets/browser-for-qrz-sheets)
-- [Browser for LoTW - Anywhere](https://github.com/CE-Widgets/browser-for-lotw-anywhere)
-- [Browser for QRZ - Anywhere](https://github.com/CE-Widgets/browser-for-qrz-anywhere)
 - [Aplicación Champagne Engineering](https://github.com/CE-Widgets/champagne-engineering-app)
 
 [Sitio web](https://champagne.engineering/es/) · [Productos](https://champagne.engineering/es/products)

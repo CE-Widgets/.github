@@ -146,58 +146,6 @@ Features include:
 
 ---
 
-### Web Apps
-
-#### [Browser for LoTW - Anywhere](https://github.com/CE-Widgets/browser-for-lotw-anywhere)
-
-A read-only web app for browsing, searching, sorting, and filtering ARRL
-Logbook of The World (LoTW) QSO and QSL records. Downloaded records and
-resumable import state remain in the browser for local browsing.
-
-Features include:
-
-- Download LoTW records directly from ARRL
-- Browse QSOs and QSLs
-- Advanced sorting and filtering
-- Regular-expression filtering
-- Detailed QSO and QSL views
-- Local storage
-- Demo mode
-- Language selection: English, French, German, Italian, Portuguese, and Spanish
-- Resume downloads with browser-local import checkpoints
-
-LoTW credentials are used only for a user-initiated request and are not stored by the web app.
-
-**Status:** 🔵 Closed Alpha — version `2026.08.21-1`
-
-Google Workspace Marketplace listing in preparation. · [Product page](https://champagne.engineering/browser-for-lotw-anywhere)
-
-#### [Browser for QRZ - Anywhere](https://github.com/CE-Widgets/browser-for-qrz-anywhere)
-
-A read-only web app for browsing, searching, sorting, and filtering QRZ
-Logbook QSO and QSL records. Downloaded records and resumable import state
-remain in the browser for local browsing.
-
-Features include:
-
-- Download QRZ Logbook records using your callsign and API key
-- Browse QSOs and QSLs
-- Advanced sorting and filtering
-- Regular-expression filtering
-- Detailed QSO and QSL views
-- Local storage
-- Demo mode
-- Language selection: English, French, German, Italian, Portuguese, and Spanish
-- Resume paginated imports with browser-local checkpoints
-
-QRZ credentials are used only for a user-initiated request and are not stored by the web app.
-
-**Status:** 🔵 Closed Alpha — version `2026.08.21-1`
-
-Google Workspace Marketplace listing in preparation. · [Product page](https://champagne.engineering/browser-for-qrz-anywhere)
-
----
-
 ### Other Apps
 
 #### [Champagne Engineering](https://github.com/CE-Widgets/champagne-engineering-app)
