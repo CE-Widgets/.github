@@ -48,6 +48,25 @@ Features include:
 
 [View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforqrz) · [Product page](https://champagne.engineering/browser-for-qrz)
 
+#### [Food Storage Analyzer](https://github.com/CE-Widgets/food-storage-analyzer)
+
+An Android application for assessing the nutritional coverage of stored food.
+Speak or type an inventory, review recognized items, and identify nutritional
+gaps in household-days.
+
+Features include:
+
+- Dictate, paste, or type a rough food inventory
+- Review and correct recognized items
+- Match items to supported generic foods
+- Set household size and food-storage goals
+- Analyze nutritional coverage and shortcomings
+- Local inventory storage with no account required
+
+**Status:** 🟡 Closed Alpha — version `0.1.0`
+
+[Product page](https://champagne.engineering/food-storage-analyzer)
+
 ---
 
 ### Chrome Extensions

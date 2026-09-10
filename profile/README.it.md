@@ -9,6 +9,7 @@ CE Widgets è il marchio di software commerciale di Champagne Engineering, LLC.
 ### App Android
 - [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw) — consulta i record QSO e QSL di LoTW.
 - [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz) — consulta i record QSO e QSL di QRZ Logbook.
+- [Food Storage Analyzer](https://github.com/CE-Widgets/food-storage-analyzer) — analizza la copertura nutrizionale delle scorte alimentari.
 
 ### Estensioni Chrome
 - [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw-chrome)
