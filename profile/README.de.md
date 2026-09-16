@@ -10,6 +10,7 @@ CE Widgets ist die Marke für kommerzielle Software von Champagne Engineering, L
 - [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw) — QSO- und QSL-Datensätze von LoTW durchsuchen.
 - [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz) — QSO- und QSL-Datensätze von QRZ Logbook durchsuchen.
 - [Food Storage Analyzer](https://github.com/CE-Widgets/food-storage-analyzer) — die ernährungsphysiologische Abdeckung eines Lebensmittelvorrats analysieren.
+- [FlagMinder](https://github.com/CE-Widgets/flag-minder) — den bundesweiten US-Flaggenstatus auf einen Blick anzeigen.
 
 ### Chrome-Erweiterungen
 - [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw-chrome)

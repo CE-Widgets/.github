@@ -10,6 +10,7 @@ CE Widgets es la marca de software comercial de Champagne Engineering, LLC.
 - [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw) — consulta los registros QSO y QSL de LoTW.
 - [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz) — consulta los registros QSO y QSL de QRZ Logbook.
 - [Food Storage Analyzer](https://github.com/CE-Widgets/food-storage-analyzer) — analiza la cobertura nutricional de los alimentos almacenados.
+- [FlagMinder](https://github.com/CE-Widgets/flag-minder) — muestra de un vistazo el estado federal de la bandera de Estados Unidos.
 
 ### Extensiones de Chrome
 - [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw-chrome)

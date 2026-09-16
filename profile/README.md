@@ -67,6 +67,26 @@ Features include:
 
 [Product page](https://champagne.engineering/food-storage-analyzer)
 
+#### [FlagMinder](https://github.com/CE-Widgets/flag-minder)
+
+An Android application for viewing Federal U.S. flag status at a glance. Its
+home-screen widget presents yesterday, today, and tomorrow so status changes
+are persistently visible.
+
+Features include:
+
+- Resizable Yesterday / Today / Tomorrow home-screen widget
+- Full-staff and half-staff timelines, including partial-day transitions
+- Current Federal status, effective time, and official-source links
+- Upcoming scheduled Federal flag-status observances
+- Optional local notifications for status changes and advance reminders
+- Cached status with visible freshness information
+- No account, location permission, or state selection
+
+**Status:** 🟡 Closed test — version `2026.09.16-9`
+
+[Product page](https://champagne.engineering/flagminder)
+
 ---
 
 ### Chrome Extensions
