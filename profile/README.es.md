@@ -4,25 +4,34 @@
 
 CE Widgets es la marca de software comercial de Champagne Engineering, LLC.
 
-## Productos
+## Herramientas de registro de radioaficionado
 
-### Herramientas de radioaficionado
+### Browser for LoTW
 
-#### [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw)
-- Aplicación Android para consultar registros QSO y QSL de LoTW.
+Consulta, busca, ordena y filtra registros QSO y QSL de ARRL Logbook of The World (LoTW).
 
-#### [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz)
-- Aplicación Android para consultar registros QSO y QSL de QRZ Logbook.
+| Plataforma | Estado | Enlaces |
+| --- | --- | --- |
+| [Android](https://github.com/CE-Widgets/browser-for-lotw) | Producción | [Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw) · [Página del producto](https://champagne.engineering/browser-for-lotw) |
+| [Extensión de Chrome](https://github.com/CE-Widgets/browser-for-lotw-chrome) | Producción | [Chrome Web Store](https://chromewebstore.google.com/detail/browser-for-lotw/eplicdjaoojmeaamhcibdeehhllnkjeg) · [Página del producto](https://champagne.engineering/browser-for-lotw-chrome) |
+| [Complemento de Google Sheets](https://github.com/CE-Widgets/browser-for-lotw-sheets) | Producción | [Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_lotw/993136684060) · [Página del producto](https://champagne.engineering/browser-for-lotw-sheets) |
 
-### Extensiones de Chrome
-- [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw-chrome)
-- [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz-chrome)
+### Browser for QRZ
 
-### Complementos de Google Sheets
-- [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw-sheets)
-- [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz-sheets)
+Consulta, busca, ordena y filtra registros QSO y QSL de QRZ Logbook.
 
-### Otras aplicaciones
-- [Aplicación Champagne Engineering](https://github.com/CE-Widgets/champagne-engineering-app)
+| Plataforma | Estado | Enlaces |
+| --- | --- | --- |
+| [Android](https://github.com/CE-Widgets/browser-for-qrz) | Producción | [Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforqrz) · [Página del producto](https://champagne.engineering/browser-for-qrz) |
+| [Extensión de Chrome](https://github.com/CE-Widgets/browser-for-qrz-chrome) | Producción | [Chrome Web Store](https://chromewebstore.google.com/detail/browser-for-qrz/pcggmleklfekjejikgdjfdddfgkkifgm) · [Página del producto](https://champagne.engineering/browser-for-qrz-chrome) |
+| [Complemento de Google Sheets](https://github.com/CE-Widgets/browser-for-qrz-sheets) | Producción | [Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_qrz/264845665339) · [Página del producto](https://champagne.engineering/browser-for-qrz-sheets) |
 
-[Sitio web](https://champagne.engineering/es/) · [Productos](https://champagne.engineering/es/products)
+Android es la experiencia móvil principal. Hay ediciones de Chrome y Google Sheets para quienes prefieran esos flujos de trabajo.
+
+## Otras aplicaciones
+
+### [Champagne Engineering](https://github.com/CE-Widgets/champagne-engineering-app)
+
+Aplicación Android complementaria oficial de Champagne Engineering.
+
+[Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.twa) · [Sitio web](https://champagne.engineering)

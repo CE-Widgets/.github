@@ -4,132 +4,61 @@
 
 CE Widgets is the commercial software brand of Champagne Engineering, LLC.
 
-## Products
+## Featured Android Apps
 
-### Featured Android Apps
+### [Food Storage Analyzer](https://github.com/CE-Widgets/food-storage-analyzer)
 
-#### [Food Storage Analyzer](https://github.com/CE-Widgets/food-storage-analyzer)
-
-An Android application for assessing the nutritional coverage of stored food.
-Speak or type an inventory, review recognized items, and identify nutritional
-gaps in household-days.
-
-Features include:
-
-- Dictate, paste, or type a rough food inventory
-- Review and correct recognized items
-- Match items to supported generic foods
-- Set household size and food-storage goals
-- Analyze nutritional coverage and shortcomings
-- Local inventory storage with no account required
+Assess the nutritional coverage of stored food. Speak or type an inventory,
+review recognized items, and identify nutritional gaps in household-days.
 
 **Status:** 🟡 Closed Alpha — version `0.1.0`
-
 [Product page](https://champagne.engineering/food-storage-analyzer)
 
-#### [FlagMinder](https://github.com/CE-Widgets/flag-minder)
+### [FlagMinder](https://github.com/CE-Widgets/flag-minder)
 
-An Android application for viewing Federal U.S. flag status at a glance. Its
-home-screen widget presents yesterday, today, and tomorrow so status changes
-are persistently visible.
-
-Features include:
-
-- Resizable Yesterday / Today / Tomorrow home-screen widget
-- Full-staff and half-staff timelines, including partial-day transitions
-- Current Federal status, effective time, and official-source links
-- Upcoming scheduled Federal flag-status observances
-- Optional local notifications for status changes and advance reminders
-- Cached status with visible freshness information
-- No account, location permission, or state selection
+See Federal U.S. flag status at a glance. The home-screen widget presents
+yesterday, today, and tomorrow so status changes remain visible.
 
 **Status:** 🟡 Closed test — version `2026.09.16-9`
-
 [Product page](https://champagne.engineering/flagminder)
 
 ---
 
-### Ham Radio Tools
+## Ham Radio Logbook Tools
 
-#### [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw)
+### Browser for LoTW
 
-Android application for browsing, searching, sorting, and filtering ARRL
-Logbook of The World (LoTW) records. Supports direct downloads, QSO/QSL views,
-advanced and regular-expression filtering, local/offline storage, demo mode,
-and English, French, German, Italian, Portuguese, and Spanish.
+Browse, search, sort, and filter ARRL Logbook of The World (LoTW) records.
 
-**Status:** 🟢 Production — version `2026.08.21-1`
+| Platform | Status | Links |
+| --- | --- | --- |
+| [Android](https://github.com/CE-Widgets/browser-for-lotw) | Production — `2026.08.21-1` | [Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw) · [Product page](https://champagne.engineering/browser-for-lotw) |
+| [Chrome extension](https://github.com/CE-Widgets/browser-for-lotw-chrome) | Production — `2026.08.21-1` | [Chrome Web Store](https://chromewebstore.google.com/detail/browser-for-lotw/eplicdjaoojmeaamhcibdeehhllnkjeg) · [Product page](https://champagne.engineering/browser-for-lotw-chrome) |
+| [Google Sheets add-on](https://github.com/CE-Widgets/browser-for-lotw-sheets) | Production — `2026.08.21-1` | [Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_lotw/993136684060) · [Product page](https://champagne.engineering/browser-for-lotw-sheets) |
 
-[View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw) · [Product page](https://champagne.engineering/browser-for-lotw)
+### Browser for QRZ
 
-#### [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz)
+Browse, search, sort, and filter QRZ Logbook records.
 
-Android application for browsing, searching, sorting, and filtering QRZ
-Logbook records. Supports direct logbook downloads, QSO/QSL views, advanced and
-regular-expression filtering, local/offline storage, demo mode, and English,
-French, German, Italian, Portuguese, and Spanish.
+| Platform | Status | Links |
+| --- | --- | --- |
+| [Android](https://github.com/CE-Widgets/browser-for-qrz) | Production — `2026.08.21-1` | [Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforqrz) · [Product page](https://champagne.engineering/browser-for-qrz) |
+| [Chrome extension](https://github.com/CE-Widgets/browser-for-qrz-chrome) | Production — `2026.08.21-2` | [Chrome Web Store](https://chromewebstore.google.com/detail/browser-for-qrz/pcggmleklfekjejikgdjfdddfgkkifgm) · [Product page](https://champagne.engineering/browser-for-qrz-chrome) |
+| [Google Sheets add-on](https://github.com/CE-Widgets/browser-for-qrz-sheets) | Production — `2026.08.21-2` | [Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_qrz/264845665339) · [Product page](https://champagne.engineering/browser-for-qrz-sheets) |
 
-**Status:** 🟢 Production — version `2026.08.21-1`
-
-[View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforqrz) · [Product page](https://champagne.engineering/browser-for-qrz)
-
----
-
-### Chrome Extensions
-
-#### [Browser for LoTW Chrome Extension](https://github.com/CE-Widgets/browser-for-lotw-chrome)
-
-Read-only Chrome extension for browsing LoTW records. Credentials are used only
-for a download request and are not stored by the extension.
-
-**Status:** 🟢 Production — version `2026.08.21-1`
-
-[View on Chrome Web Store](https://chromewebstore.google.com/detail/browser-for-lotw/eplicdjaoojmeaamhcibdeehhllnkjeg) · [Product page](https://champagne.engineering/browser-for-lotw-chrome)
-
-#### [Browser for QRZ Chrome Extension](https://github.com/CE-Widgets/browser-for-qrz-chrome)
-
-Read-only Chrome extension for browsing QRZ Logbook records. Callsigns and API
-keys are used only for a download request and are not stored by the extension.
-
-**Status:** 🟢 Production — version `2026.08.21-2`
-
-[View on Chrome Web Store](https://chromewebstore.google.com/detail/browser-for-qrz/pcggmleklfekjejikgdjfdddfgkkifgm) · [Product page](https://champagne.engineering/browser-for-qrz-chrome)
+Android is the primary mobile experience. Chrome and Google Sheets editions are
+available for users who prefer those workflows.
 
 ---
 
-### Google Sheets Add-ons
+## Other Apps
 
-#### [Browser for LoTW for Google Sheets™](https://github.com/CE-Widgets/browser-for-lotw-sheets)
-
-Read-only Google Sheets™ add-on for downloading LoTW QSO and QSL data into a
-selected spreadsheet, where it can be browsed, sorted, filtered, and analyzed
-using native Google Sheets tools.
-
-**Status:** 🟢 Production — version `2026.08.21-1`
-
-[View in Google Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_lotw/993136684060) · [Product page](https://champagne.engineering/browser-for-lotw-sheets)
-
-#### [Browser for QRZ for Google Sheets™](https://github.com/CE-Widgets/browser-for-qrz-sheets)
-
-Read-only Google Sheets™ add-on for downloading QRZ Logbook data into a
-selected spreadsheet, where it can be browsed, sorted, filtered, and analyzed
-using native Google Sheets tools.
-
-**Status:** 🟢 Production — version `2026.08.21-2`
-
-[View in Google Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_qrz/264845665339) · [Product page](https://champagne.engineering/browser-for-qrz-sheets)
-
----
-
-### Other Apps
-
-#### [Champagne Engineering](https://github.com/CE-Widgets/champagne-engineering-app)
+### [Champagne Engineering](https://github.com/CE-Widgets/champagne-engineering-app)
 
 The official Android companion app for Champagne Engineering.
 
 **Status:** 🟢 Production — version `2026.08.03-1`
-
-[View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.twa) · [Website](https://champagne.engineering)
+[Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.twa) · [Website](https://champagne.engineering)
 
 ---
 
