@@ -6,19 +6,23 @@ A CE Widgets é a marca de software comercial da Champagne Engineering, LLC.
 
 ## Produtos
 
-### Aplicações Android
-- [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw) — consultar registos QSO e QSL do LoTW.
-- [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz) — consultar registos QSO e QSL do QRZ Logbook.
-- [Food Storage Analyzer](https://github.com/CE-Widgets/food-storage-analyzer) — analisar a cobertura nutricional de um stock de alimentos.
-- [FlagMinder](https://github.com/CE-Widgets/flag-minder) — mostrar rapidamente o estado federal da bandeira dos EUA.
+### Ferramentas de rádio amador
+
+#### [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw)
+- Aplicação Android para consultar registos QSO e QSL do LoTW.
+
+#### [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz)
+- Aplicação Android para consultar registos QSO e QSL do QRZ Logbook.
 
 ### Extensões do Chrome
 - [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw-chrome)
 - [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz-chrome)
 
-### Outros produtos
-- [LoTW para Google Sheets™](https://github.com/CE-Widgets/browser-for-lotw-sheets)
-- [QRZ para Google Sheets™](https://github.com/CE-Widgets/browser-for-qrz-sheets)
+### Suplementos do Google Sheets
+- [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw-sheets)
+- [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz-sheets)
+
+### Outras aplicações
 - [Aplicação Champagne Engineering](https://github.com/CE-Widgets/champagne-engineering-app)
 
 [Site](https://champagne.engineering/pt/) · [Produtos](https://champagne.engineering/pt/products)

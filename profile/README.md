@@ -6,47 +6,7 @@ CE Widgets is the commercial software brand of Champagne Engineering, LLC.
 
 ## Products
 
-### Android Apps
-
-#### [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw)
-
-An Android application for browsing, searching, sorting, and filtering ARRL Logbook of The World (LoTW) records.
-
-Features include:
-
-- Download LoTW records directly from ARRL
-- Browse QSOs and QSLs
-- Advanced sorting and filtering
-- Regular-expression filtering
-- Detailed QSO and QSL views
-- Local storage
-- Demo mode
-- Language selection: English, French, German, Italian, Portuguese, and Spanish
-- Offline browsing
-
-**Status:** 🟢 Production — version `2026.08.21-1`
-
-[View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw) · [Product page](https://champagne.engineering/browser-for-lotw)
-
-#### [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz)
-
-An Android application for browsing, searching, sorting, and filtering QRZ Logbook records.
-
-Features include:
-
-- Download QRZ Logbook records using your callsign and API key
-- Browse QSOs and QSLs
-- Advanced sorting and filtering
-- Regular-expression filtering
-- Detailed QSO and QSL views
-- Local storage
-- Demo mode
-- Language selection: English, French, German, Italian, Portuguese, and Spanish
-- Offline browsing
-
-**Status:** 🟢 Production — version `2026.08.21-1`
-
-[View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforqrz) · [Product page](https://champagne.engineering/browser-for-qrz)
+### Featured Android Apps
 
 #### [Food Storage Analyzer](https://github.com/CE-Widgets/food-storage-analyzer)
 
@@ -89,25 +49,38 @@ Features include:
 
 ---
 
+### Ham Radio Tools
+
+#### [Browser for LoTW](https://github.com/CE-Widgets/browser-for-lotw)
+
+Android application for browsing, searching, sorting, and filtering ARRL
+Logbook of The World (LoTW) records. Supports direct downloads, QSO/QSL views,
+advanced and regular-expression filtering, local/offline storage, demo mode,
+and English, French, German, Italian, Portuguese, and Spanish.
+
+**Status:** 🟢 Production — version `2026.08.21-1`
+
+[View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw) · [Product page](https://champagne.engineering/browser-for-lotw)
+
+#### [Browser for QRZ](https://github.com/CE-Widgets/browser-for-qrz)
+
+Android application for browsing, searching, sorting, and filtering QRZ
+Logbook records. Supports direct logbook downloads, QSO/QSL views, advanced and
+regular-expression filtering, local/offline storage, demo mode, and English,
+French, German, Italian, Portuguese, and Spanish.
+
+**Status:** 🟢 Production — version `2026.08.21-1`
+
+[View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforqrz) · [Product page](https://champagne.engineering/browser-for-qrz)
+
+---
+
 ### Chrome Extensions
 
 #### [Browser for LoTW Chrome Extension](https://github.com/CE-Widgets/browser-for-lotw-chrome)
 
-A read-only Chrome extension for browsing, searching, sorting, and filtering ARRL Logbook of The World (LoTW) records.
-
-Features include:
-
-- Download LoTW records directly from ARRL
-- Browse QSOs and QSLs
-- Advanced sorting and filtering
-- Regular-expression filtering
-- Detailed QSO and QSL views
-- Local storage
-- Demo mode
-- Language selection: English, French, German, Italian, Portuguese, and Spanish
-- Offline browsing
-
-LoTW credentials are used only for each download request and are not stored by the extension.
+Read-only Chrome extension for browsing LoTW records. Credentials are used only
+for a download request and are not stored by the extension.
 
 **Status:** 🟢 Production — version `2026.08.21-1`
 
@@ -115,21 +88,8 @@ LoTW credentials are used only for each download request and are not stored by t
 
 #### [Browser for QRZ Chrome Extension](https://github.com/CE-Widgets/browser-for-qrz-chrome)
 
-A read-only Chrome extension for browsing, searching, sorting, and filtering QRZ Logbook records.
-
-Features include:
-
-- Download QRZ Logbook records using your callsign and API key
-- Browse QSOs and QSLs
-- Advanced sorting and filtering
-- Regular-expression filtering
-- Detailed QSO and QSL views
-- Local storage
-- Demo mode
-- Language selection: English, French, German, Italian, Portuguese, and Spanish
-- Offline browsing
-
-QRZ callsigns and API keys are used only for each download request and are not stored by the extension.
+Read-only Chrome extension for browsing QRZ Logbook records. Callsigns and API
+keys are used only for a download request and are not stored by the extension.
 
 **Status:** 🟢 Production — version `2026.08.21-2`
 
@@ -141,21 +101,8 @@ QRZ callsigns and API keys are used only for each download request and are not s
 
 #### [Browser for LoTW for Google Sheets™](https://github.com/CE-Widgets/browser-for-lotw-sheets)
 
-A read-only Google Sheets™ add-on for browsing ARRL Logbook of The World
-(LoTW) QSO and QSL data. Download a selected date range into a spreadsheet,
-then use native Sheets sorting, filtering, search, and charting tools locally.
-
-Features include:
-
-- Download LoTW records directly from ARRL
-- Browse QSOs and QSLs
-- Advanced sorting and filtering
-- Regular-expression filtering
-- Detailed QSO and QSL views
-- Local storage
-- Demo mode
-- Language selection: English, French, German, Italian, Portuguese, and Spanish
-- Native Google Sheets™ sorting, filtering, search, and charting
+Read-only Google Sheets™ add-on for downloading, browsing, sorting, filtering,
+and updating LoTW QSO and QSL data.
 
 **Status:** 🟢 Production — version `2026.08.21-1`
 
@@ -163,21 +110,8 @@ Features include:
 
 #### [Browser for QRZ for Google Sheets™](https://github.com/CE-Widgets/browser-for-qrz-sheets)
 
-A read-only Google Sheets™ add-on for browsing QRZ Logbook QSO and QSL data.
-Download a selected date range into a spreadsheet, then use native Sheets
-sorting, filtering, search, and charting tools locally.
-
-Features include:
-
-- Download QRZ Logbook records using your callsign and API key
-- Browse QSOs and QSLs
-- Advanced sorting and filtering
-- Regular-expression filtering
-- Detailed QSO and QSL views
-- Local storage
-- Demo mode
-- Language selection: English, French, German, Italian, Portuguese, and Spanish
-- Native Google Sheets™ sorting, filtering, search, and charting
+Read-only Google Sheets™ add-on for downloading, browsing, sorting, filtering,
+and updating QRZ Logbook data.
 
 **Status:** 🟢 Production — version `2026.08.21-2`
 
@@ -191,11 +125,6 @@ Features include:
 
 The official Android companion app for Champagne Engineering.
 
-Features include:
-
-- Quick access to the Champagne Engineering website
-- Home-screen shortcuts for Services, Contact, and Privacy Policy
-
 **Status:** 🟢 Production — version `2026.08.03-1`
 
 [View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.twa) · [Website](https://champagne.engineering)
@@ -203,8 +132,6 @@ Features include:
 ---
 
 ## About CE Widgets
-
-CE Widgets is the commercial software brand of Champagne Engineering, LLC.
 
 - [Website](https://champagne.engineering)
 - [Support](mailto:support@champagne.engineering)
