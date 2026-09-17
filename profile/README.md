@@ -101,8 +101,9 @@ keys are used only for a download request and are not stored by the extension.
 
 #### [Browser for LoTW for Google Sheets™](https://github.com/CE-Widgets/browser-for-lotw-sheets)
 
-Read-only Google Sheets™ add-on for downloading, browsing, sorting, filtering,
-and updating LoTW QSO and QSL data.
+Read-only Google Sheets™ add-on for downloading LoTW QSO and QSL data into a
+selected spreadsheet, where it can be browsed, sorted, filtered, and analyzed
+using native Google Sheets tools.
 
 **Status:** 🟢 Production — version `2026.08.21-1`
 
@@ -110,8 +111,9 @@ and updating LoTW QSO and QSL data.
 
 #### [Browser for QRZ for Google Sheets™](https://github.com/CE-Widgets/browser-for-qrz-sheets)
 
-Read-only Google Sheets™ add-on for downloading, browsing, sorting, filtering,
-and updating QRZ Logbook data.
+Read-only Google Sheets™ add-on for downloading QRZ Logbook data into a
+selected spreadsheet, where it can be browsed, sorted, filtered, and analyzed
+using native Google Sheets tools.
 
 **Status:** 🟢 Production — version `2026.08.21-2`
 
