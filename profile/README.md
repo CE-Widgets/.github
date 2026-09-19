@@ -11,16 +11,16 @@ CE Widgets is the commercial software brand of Champagne Engineering, LLC.
 Assess the nutritional coverage of stored food. Speak or type an inventory,
 review recognized items, and identify nutritional gaps in household-days.
 
-**Status:** 🟡 Closed Alpha — version `0.1.0`
-[Product page](https://champagne.engineering/food-storage-analyzer)
+**Status:** 🟢 Production — version `0.1.0`
+[Google Play](https://play.google.com/store/apps/details?id=champagne.engineering.fsa) · [Product page](https://champagne.engineering/food-storage-analyzer)
 
 ### [FlagMinder](https://github.com/CE-Widgets/flag-minder)
 
 See Federal U.S. flag status at a glance. The home-screen widget presents
 yesterday, today, and tomorrow so status changes remain visible.
 
-**Status:** 🟡 Closed test — version `2026.09.16-9`
-[Product page](https://champagne.engineering/flagminder)
+**Status:** 🟢 Production — version `2026.09.18-05`
+[Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.flagminder) · [Product page](https://champagne.engineering/flagminder)
 
 ---
 
