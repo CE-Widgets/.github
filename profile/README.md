@@ -31,7 +31,7 @@ optionally receive state-transition notifications.
 **Status:** 🟢 Production — version `2026.09.23-05`
 [Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.lightningminder) · [Product page](https://champagne.engineering/lightningminder)
 
-### [Sleigh: Midnight Delivery](https://github.com/CE-Widgets/sleigh)
+### [Sleigh: Chimney Magic](https://github.com/CE-Widgets/sleigh)
 
 Fly Santa's sleigh through a storybook winter village, deliver gifts to glowing
 chimneys, and protect the run from airborne trouble.
