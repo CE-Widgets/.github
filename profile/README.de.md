@@ -4,6 +4,43 @@
 
 CE Widgets ist die Marke für kommerzielle Software von Champagne Engineering, LLC.
 
+## Empfohlene Android-Apps
+
+### [Personal Price Book](https://github.com/CE-Widgets/pricebook)
+
+Eigene Einkaufspreise festhalten, Einkäufe eingeben oder diktieren und die eigene Historie vergleichen.
+
+**Status:** 🟡 Interner Test — Version `2026.11.12-24`
+[Repository](https://github.com/CE-Widgets/pricebook) · [Produktseite](https://champagne.engineering/personal-price-book)
+
+### [Food Storage Analyzer](https://github.com/CE-Widgets/food-storage-analyzer)
+
+Bewertet die Nährstoffabdeckung eingelagerter Lebensmittel.
+
+**Status:** 🟢 Produktion — Version `2026.09.11-6`
+[Google Play](https://play.google.com/store/apps/details?id=champagne.engineering.fsa) · [Produktseite](https://champagne.engineering/food-storage-analyzer)
+
+### [Sleigh: Chimney Magic](https://github.com/CE-Widgets/sleigh)
+
+Fliege Santas Schlitten durch ein winterliches Dorf und liefere Geschenke aus.
+
+**Status:** 🟢 Produktion — Version `2026.10.25-14`
+[Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.sleigh&hl=en-US) · [Produktseite](https://champagne.engineering/sleigh)
+
+### [FlagMinder](https://github.com/CE-Widgets/flag-minder)
+
+Zeigt den Status der US-Bundesflagge auf einen Blick.
+
+**Status:** 🟢 Produktion — Version `2026.09.18-05`
+[Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.flagminder) · [Produktseite](https://champagne.engineering/flagminder)
+
+### [LightningMinder](https://github.com/CE-Widgets/lightning-minder)
+
+Überwacht jüngst gemeldete Blitze in der Nähe eines gespeicherten Standorts.
+
+**Status:** 🟢 Produktion — Version `2026.09.23-05`
+[Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.lightningminder) · [Produktseite](https://champagne.engineering/lightningminder)
+
 ## Amateurfunk-Logbuchwerkzeuge
 
 ### Browser for LoTW

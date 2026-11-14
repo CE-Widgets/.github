@@ -6,6 +6,15 @@ CE Widgets is the commercial software brand of Champagne Engineering, LLC.
 
 ## Featured Android Apps
 
+### [Personal Price Book](https://github.com/CE-Widgets/pricebook)
+
+Keep a simple personal record of what you paid. Enter or dictate purchases,
+review recognized details before saving, and compare your own history next time
+you shop.
+
+**Status:** 🟡 Internal testing — version `2026.11.12-24`
+[Repository](https://github.com/CE-Widgets/pricebook) · [Product page](https://champagne.engineering/personal-price-book)
+
 ### [Food Storage Analyzer](https://github.com/CE-Widgets/food-storage-analyzer)
 
 Assess the nutritional coverage of stored food. Speak or type an inventory,
@@ -13,6 +22,14 @@ review recognized items, and identify nutritional gaps in household-days.
 
 **Status:** 🟢 Production — version `2026.09.11-6`
 [Google Play](https://play.google.com/store/apps/details?id=champagne.engineering.fsa) · [Product page](https://champagne.engineering/food-storage-analyzer)
+
+### [Sleigh: Chimney Magic](https://github.com/CE-Widgets/sleigh)
+
+Fly Santa's sleigh through a storybook winter village, deliver gifts to glowing
+chimneys, and protect the run from airborne trouble.
+
+**Status:** 🟢 Production — version `2026.10.25-14`
+[Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.sleigh&hl=en-US) · [Product page](https://champagne.engineering/sleigh)
 
 ### [FlagMinder](https://github.com/CE-Widgets/flag-minder)
 
@@ -30,14 +47,6 @@ optionally receive state-transition notifications.
 
 **Status:** 🟢 Production — version `2026.09.23-05`
 [Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.lightningminder) · [Product page](https://champagne.engineering/lightningminder)
-
-### [Sleigh: Chimney Magic](https://github.com/CE-Widgets/sleigh)
-
-Fly Santa's sleigh through a storybook winter village, deliver gifts to glowing
-chimneys, and protect the run from airborne trouble.
-
-**Status:** 🟢 Production — version `2026.10.25-14`
-[Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.sleigh&hl=en-US) · [Product page](https://champagne.engineering/sleigh)
 
 ---
 
