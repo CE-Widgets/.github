@@ -10,8 +10,8 @@ CE Widgets est la marque de logiciels commerciaux de Champagne Engineering, LLC.
 
 Conservez vos propres prix d’achat, saisissez ou dictez des achats et comparez votre historique.
 
-**Statut :** 🟡 Test interne — version `2026.11.12-24`
-[Dépôt](https://github.com/CE-Widgets/pricebook) · [Page du produit](https://champagne.engineering/personal-price-book)
+**Statut :** 🟢 Production — version `2026.11.15-25`
+[Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.personalpricebook) · [Page du produit](https://champagne.engineering/personal-price-book)
 
 ### [Food Storage Analyzer](https://github.com/CE-Widgets/food-storage-analyzer)
 
@@ -26,6 +26,13 @@ Faites voler le traîneau du Père Noël dans un village hivernal et livrez des 
 
 **Statut :** 🟢 Production — version `2026.10.25-14`
 [Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.sleigh&hl=en-US) · [Page du produit](https://champagne.engineering/sleigh)
+
+### [Turkey Trot: Dinner Magic](https://github.com/CE-Widgets/turkey)
+
+Faites voler une dinde au-dessus d’un village d’automne et livrez de la purée de pommes de terre aux tables de Thanksgiving.
+
+**Statut :** 🟢 Production — version `2026.11.16-3`
+[Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.turkey&hl=en-US) · [Page du produit](https://champagne.engineering/turkey)
 
 ### [FlagMinder](https://github.com/CE-Widgets/flag-minder)
 

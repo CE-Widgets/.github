@@ -12,8 +12,8 @@ Keep a simple personal record of what you paid. Enter or dictate purchases,
 review recognized details before saving, and compare your own history next time
 you shop.
 
-**Status:** 🟡 Internal testing — version `2026.11.12-24`
-[Repository](https://github.com/CE-Widgets/pricebook) · [Product page](https://champagne.engineering/personal-price-book)
+**Status:** 🟢 Production — version `2026.11.15-25`
+[Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.personalpricebook) · [Product page](https://champagne.engineering/personal-price-book)
 
 ### [Food Storage Analyzer](https://github.com/CE-Widgets/food-storage-analyzer)
 
@@ -30,6 +30,13 @@ chimneys, and protect the run from airborne trouble.
 
 **Status:** 🟢 Production — version `2026.10.25-14`
 [Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.sleigh&hl=en-US) · [Product page](https://champagne.engineering/sleigh)
+
+### [Turkey Trot: Dinner Magic](https://github.com/CE-Widgets/turkey)
+
+Fly a turkey through an autumn village and deliver mashed potatoes to Thanksgiving tables.
+
+**Status:** 🟢 Production — version `2026.11.16-3`
+[Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.turkey&hl=en-US) · [Product page](https://champagne.engineering/turkey)
 
 ### [FlagMinder](https://github.com/CE-Widgets/flag-minder)
 
